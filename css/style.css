@@ -25,7 +25,7 @@
     color: white;
     font-weight: 900;
     padding: 10PX 25PX;
-    
+    background-color: #A03FF5;
     border: 2px dashed white;
     border-radius: 25px;
 }
@@ -79,4 +79,26 @@
 .w3{
     margin-left: 15px;
     width: 20px;
+}
+.w6{
+    background-color: #A03FF5;
+    border-radius: 25px;
+    padding: 0px;
+    margin-right: 50px;
+    
+    
+}
+.w7{
+    border-top: 1px solid #C9C9C9;
+}
+.card-title{
+    color: white;
+    font-weight: 800;
+}
+.card{
+    background-color: #1D1933;
+    box-shadow: 5px 5px 23px 2px #1D1933;
+    border: 1px solid black;
+}
+.w10{
 }
