@@ -1,14 +1,16 @@
 .q1{
     background-image: url(https://nftmak.netlify.app/assets/img/banner/banner_bg.jpg);
+    padding-top: 35px;
 }
 .q2{
     color: #6345ED;
-    font-weight: 800;
+    font-weight: 900;
 
 }
 .navbar-brand{
     color: white;
-    font-weight: 700;
+    font-weight: 900;
+    font-size: 30px;
 }
 .nav-link{
     color: white;
@@ -16,13 +18,19 @@
 }
 .btn{
     color: white;
-    font-weight: 800;
+    font-weight: 900;
     padding: 10PX 25PX;
     background-color: #A03FF5;
+    border: 3px solid white;
 }
 .navbar{
     background-color: #1C1832;
+    padding-top: 25px;
 }
-.nav-item{
-    margin-left: 50PX;
+.navbar-nav{
+    margin-left: 300px;
+    color: white;
+}
+.d-flex{
+    
 }
