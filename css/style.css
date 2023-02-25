@@ -1,0 +1,28 @@
+.q1{
+    background-image: url(https://nftmak.netlify.app/assets/img/banner/banner_bg.jpg);
+}
+.q2{
+    color: #6345ED;
+    font-weight: 800;
+
+}
+.navbar-brand{
+    color: white;
+    font-weight: 700;
+}
+.nav-link{
+    color: white;
+    font-weight: 700;
+}
+.btn{
+    color: white;
+    font-weight: 800;
+    padding: 10PX 25PX;
+    background-color: #A03FF5;
+}
+.navbar{
+    background-color: #1C1832;
+}
+.nav-item{
+    margin-left: 50PX;
+}
