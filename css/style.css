@@ -39,3 +39,21 @@
     border-radius: 25px;
     padding: 4px;
 }
+.q5{
+    font-weight: 700;
+    font-size: 70px;
+    color: white;
+}
+.q6{
+    color: #6345ED; 
+}
+.q7{
+    font-weight: 600;
+    font-size: 20px;
+    color: #C9C9C9;
+}
+.q8{
+    padding: 7px 20px;
+    color: white;
+    text-decoration: none;
+}
