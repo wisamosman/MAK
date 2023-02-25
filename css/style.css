@@ -1,6 +1,7 @@
 .q1{
     background-image: url(https://nftmak.netlify.app/assets/img/banner/banner_bg.jpg);
     padding-top: 20px;
+    border-bottom: 2px solid white;
     
 }
 .q2{
@@ -38,6 +39,7 @@
     background-color: #A03FF5;
     border-radius: 25px;
     padding: 4px;
+    
 }
 .q5{
     font-weight: 700;
@@ -63,4 +65,10 @@
 }
 .q9{
     padding-top: 30px;
+}
+.w2{
+    color: white;
+}
+.w1{
+    background-color: #070B24;
 }
